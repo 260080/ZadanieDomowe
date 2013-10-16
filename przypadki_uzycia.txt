@@ -1,0 +1,47 @@
+KUPNO BILETÓW ONLINE
+1.	Klient loguje siê na stronê
+2.	Jeœli klient jest na stronie po raz pierwszy rejestruje siê 
+3.	Klient wybiera interesuj¹ce go wydarzenie
+4.	Klient zostaje przekierowany na stronê wydarzenia
+5.	Klient klika opcjê KUP BILET
+6.	Klient wybiera sektor stadionu, w którym chce wybraæ miejsca
+7.	Klient na interaktywnym schemacie sektora wybiera miejsca 
+8.	Po wyborze konkretnego miejsca klient podaje typ biletu
+•	Normalny
+•	Ulgowy
+Gdy iloœæ biletów jest wiêksza ni¿ 15
+•	Indywidualne 
+?	Normalne
+?	Ulgowe
+•	Grupowe (tylko dla  szkó³)
+Gdy iloœæ biletów jest wiêksza ni¿ 2 ale mniejsza ni¿ 7
+•	Indywidualne
+?	Normalne
+?	Ulgowe
+•	Rodzinne
+?	Iloœæ osób doros³ych (1 lub 2)
+?	Iloœæ dzieci (max 5)
+9.	Klient wybiera formê odbioru biletu
+•	
+10.	Klient wybiera formê p³atnoœci
+•	Przelew internetowy – przelew rêczny lub szybkie p³atnoœci
+•	Przelew tradycyjny – klientowi zostaj¹ udostêpnione dane do przelewu oraz mo¿liwoœæ pobrania gotowego druku do przelewu
+11.	Klient klika opcje ZAMÓW BILETY
+KUPNO BILETU W KASIE
+1.	Klient podaje kasjerce sektor, iloœæ biletów i ich typ, a kasjerka wprowadza te dane do systemu
+2.	Kasjerka pokazuje klientowi rozk³ad sektora i pozwala mu wybraæ miejsca
+3.	Klient podaje kasjerce dane osobowe, a ona wprowadza je do systemu
+4.	Klient p³aci za bilety
+•	Gotówka
+•	Karta
+5.	Kasjerka drukuje bilety i wydaje je klientowi
+ZWROT BILETÓW
+6.	Kasjerka skanuje kod kreskowy oddawanych biletów
+7.	System identyfikuje bilety
+8.	Kasjerka w systemie anuluje rezerwacjê biletu
+9.	Kasjerka odlicza prowizjê i oddaje pieni¹dze za bilet
+OBRIÓR BILETU
+1.	Kasjerka identyfikuje klienta na podstawie dowodu osobistego
+2.	Jeœli identyfikacja oka¿e siê poprawna to drukuje bilety na podstawie zamówienia znajduj¹cego siê w systemie
+
+
